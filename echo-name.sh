@@ -1,3 +1,1 @@
-#/bin/sh
-
-echo "Zygen group"
+echo Zygen group
