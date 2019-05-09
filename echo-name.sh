@@ -1,3 +1,4 @@
 #!/bin/sh
 
-echo Zygen group
+echo Benznaja
+echo from ZyGen
