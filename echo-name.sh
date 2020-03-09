@@ -7,6 +7,8 @@ echo Benznaja
 echo YoungNuay
 echo Ahihi
 echo Kittiew
+echo InFamous
+echo King
 echo tonglee
 echo Pae2
 echo tunoat
