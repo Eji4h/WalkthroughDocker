@@ -1,5 +1,6 @@
 #!/bin/sh
 
+echo Kera
 echo John Nonphala
 echo Zygen group
 echo Kera
