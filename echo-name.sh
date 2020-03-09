@@ -7,6 +7,7 @@ echo Benznaja
 echo YoungNuay
 echo Ahihi
 echo Kittiew
+echo King
 echo tonglee
 echo Pae2
 echo tunoat
