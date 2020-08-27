@@ -28,4 +28,3 @@ echo kcahrune
 echo Nack
 echo Pae5
 echo nattapon
-echo min
