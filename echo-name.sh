@@ -28,3 +28,5 @@ echo kcahrune
 echo Nack
 echo Pae5
 echo Kittipong
+echo nattapon
+echo nontakhon
