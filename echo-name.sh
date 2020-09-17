@@ -4,6 +4,7 @@ echo supparurk
 echo Kera
 echo John Nonphala
 echo Zygen group
+echo ninxxx
 echo Kera
 echo Pae
 echo Benznaja
