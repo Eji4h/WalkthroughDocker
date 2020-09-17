@@ -35,5 +35,6 @@ echo min
 echo ex
 echo Praw
 echo nontakhon
+echo sukrit
 echo ben28
 echo pae3
