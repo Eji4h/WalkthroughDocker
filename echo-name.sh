@@ -11,6 +11,7 @@ echo Benznaja
 echo YoungNuay
 echo Ahihi
 echo Kittiew
+echo karn
 echo InFamous
 echo King
 echo tonglee
@@ -39,3 +40,7 @@ echo sukrit
 echo ben28
 echo pae3
 echo king10
+echo pun
+echo rut
+echo pae4
+echo GrIT T_T
