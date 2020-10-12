@@ -1,4 +1,5 @@
 #!/bin/sh
+
 echo supparurk
 echo Kera
 echo John Nonphala
@@ -37,4 +38,4 @@ echo nontakhon
 echo sukrit
 echo ben28
 echo pae3
-echo GrIT T_T
+echo king10
