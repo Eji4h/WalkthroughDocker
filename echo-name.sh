@@ -10,6 +10,7 @@ echo Benznaja
 echo YoungNuay
 echo Ahihi
 echo Kittiew
+echo karn
 echo InFamous
 echo King
 echo tonglee
