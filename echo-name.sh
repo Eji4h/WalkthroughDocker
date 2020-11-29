@@ -45,3 +45,5 @@ echo rut
 echo pae4
 echo GrIT T_T
 echo SuVist
+echo Baimon
+echo siriwatknp
