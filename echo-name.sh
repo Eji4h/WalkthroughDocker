@@ -53,3 +53,4 @@ echo turk
 echo SuVist
 echo Baimon
 echo siriwatknp
+echo hspotlight
