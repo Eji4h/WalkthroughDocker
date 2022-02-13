@@ -54,3 +54,4 @@ echo SuVist
 echo Baimon
 echo siriwatknp
 echo hspotlight
+echo cnj
